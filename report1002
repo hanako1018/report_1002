@@ -1,32 +1,40 @@
+function lec01_1
+var a,b;
+function add(1,2){
+return a+b;
+};
 
-function add(1, 2) {
-  var z = 1 + 2;
-  return z;
-}
-
-function add(1, 2) {
-  var z = 1 * 2;
-  return z;
-}
+function lec01_2
+var c,d;
+function multiply(3,4){
+return c*d;
+};
 
 
-function lec01_02_ {
-  var a = 2x;
+function lec01_3_ {
+  var e,f,x;
+  e = multiply(2,x);
+  f = add(e,10);
+  return f
   var sum;
-  sum = add(10, a);
   alert('sum = ' + sum);
-}
+};
 
-function lec01_02_ {
-  var a = 2x;
-  var sum;
-  sum = add(10, a);
-  alert('sum = ' + sum);
-}
 
-function lec01_02_ {
-  var a = 2x;
+function lec01_3_ {
+  var e,f,x;
+  e = multiply(2,x);
+  f = add(e,10);
+  return f
   var sum;
-  sum = add(10, a);
   alert('sum = ' + sum);
-}
+};
+
+function lec01_3_ {
+  var e,f,x;
+  e = multiply(2,x);
+  f = add(e,10);
+  return f
+  var sum;
+  alert('sum = ' + sum);
+};
