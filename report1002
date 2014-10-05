@@ -1,4 +1,14 @@
-function lec01_1
+function lec1(x, y) {
+  var z = x + y;
+  return z;
+}
+
+function lec2(x, y) {
+  var z = x * y;
+  return z;
+}
+
+function lec01_1()
 var a,b;
 function add(1,2){
 return a+b;
